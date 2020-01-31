@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1540579576 source:d:\fci\2\pro\ass answers\2\bigdecimal\new folder\bigdecimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1540579336 d:\fci\2\pro\ass answers\2\bigdecimal\new folder\bigdecimal\bigdecimal.h
+	<cstring>
+	<iostream>
+
+1540579359 source:d:\fci\2\pro\ass answers\2\bigdecimal\new folder\bigdecimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1541370639 source:d:\fci\2\pro\ass answers\2\bigdecimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1542609049 d:\fci\2\pro\ass answers\2\bigdecimal\bigdecimal.h
+	<cstring>
+	<iostream>
+
+1541371868 source:d:\fci\2\pro\ass answers\2\bigdecimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1542609626 source:d:\fci\2\1\pro\ass answers\2\bigdecimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1542609049 d:\fci\2\1\pro\ass answers\2\bigdecimal\bigdecimal.h
+	<cstring>
+	<iostream>
+
+1541371868 source:d:\fci\2\1\pro\ass answers\2\bigdecimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1551048247 source:d:\fci\2\2\ds\asss\a1_p1_20170010_20170011_20170047\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1542609049 d:\fci\2\2\ds\asss\a1_p1_20170010_20170011_20170047\bigdecimal.h
+	<cstring>
+	<iostream>
+
+1551112050 source:d:\fci\2\2\ds\asss\a1_p1_20170010_20170011_20170047\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1551112050 source:c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p1_20170010_20170011_20170047\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1542609049 c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p1_20170010_20170011_20170047\bigdecimal.h
+	<cstring>
+	<iostream>
+
+1551048247 source:c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p1_20170010_20170011_20170047\main.cpp
+	<iostream>
+	"BigDecimal.h"
+

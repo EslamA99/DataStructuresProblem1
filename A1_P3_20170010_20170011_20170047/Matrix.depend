@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1551782507 source:c:\users\ahmedos\desktop\matrix\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1551781500 source:c:\users\ahmedos\desktop\matrix\matrix.cpp
+
+1551782567 c:\users\ahmedos\desktop\matrix\matrix.h
+	<iostream>
+
+1551782507 source:d:\fci\2\2\ds\asss\a1_p3_20170010_20170011_20170047\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1551782567 d:\fci\2\2\ds\asss\a1_p3_20170010_20170011_20170047\matrix.h
+	<iostream>
+
+1551781500 source:d:\fci\2\2\ds\asss\a1_p3_20170010_20170011_20170047\matrix.cpp
+
+1551789491 source:c:\users\gg\downloads\compressed\asss\a1_p3_20170010_20170011_20170047\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1551792515 c:\users\gg\downloads\compressed\asss\a1_p3_20170010_20170011_20170047\matrix.h
+	<iostream>
+
+1551787647 source:c:\users\gg\downloads\compressed\asss\a1_p3_20170010_20170011_20170047\matrix.cpp
+
+1551787652 c:\users\gg\downloads\compressed\asss\a1_p3_20170010_20170011_20170047\include\matrixcalculator.h
+	<iostream>
+	"Matrix.h"
+
+1551782567 c:\users\gg\downloads\compressed\asss\a1_p3_20170010_20170011_20170047\include\matrix.h
+	<iostream>
+
+1551791724 source:c:\users\gg\downloads\compressed\asss\a1_p3_20170010_20170011_20170047\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	<iostream>
+	"Matrix.h"
+
+1551789491 source:c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1551887844 c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\matrix.h
+	<iostream>
+
+1551787652 c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\include\matrixcalculator.h
+	<iostream>
+	"Matrix.h"
+
+1551792545 c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\include\matrix.h
+	<iostream>
+
+1551787647 source:c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\matrix.cpp
+
+1551791724 source:c:\users\gg\downloads\compressed\a1_20170010_20170011_20170047234104_ahmed_osama_4\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	<iostream>
+	"Matrix.h"
+
+1551787647 source:e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\matrix.cpp
+
+1551791724 source:e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	<iostream>
+	"Matrix.h"
+
+1551787652 e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\include\matrixcalculator.h
+	<iostream>
+	"Matrix.h"
+
+1551792545 e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\include\matrix.h
+	<iostream>
+
+1551901715 source:e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1551887844 e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p3_20170010_20170011_20170047\matrix.h
+	<iostream>
+

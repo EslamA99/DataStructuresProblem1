@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1550960040 source:d:\fci\2\2\ds\asss\fractions\main.cpp
+	<iostream>
+	"fractions.h"
+
+1550959505 d:\fci\2\2\ds\asss\fractions\fractions.h
+	<cstring>
+	<iostream>
+
+1550960003 source:d:\fci\2\2\ds\asss\fractions\fractions.cpp
+	"fractions.h"
+	<iostream>
+
+1551789845 source:d:\fci\2\2\ds\asss\a1_p2_20170010_20170011_20170047\fractions.cpp
+	"fractions.h"
+	<iostream>
+
+1550959505 d:\fci\2\2\ds\asss\a1_p2_20170010_20170011_20170047\fractions.h
+	<cstring>
+	<iostream>
+
+1551786578 source:d:\fci\2\2\ds\asss\a1_p2_20170010_20170011_20170047\main.cpp
+	<iostream>
+	"FractionCalculator.h"
+	"fractions.h"
+
+1551785696 d:\fci\2\2\ds\asss\a1_p2_20170010_20170011_20170047\fractioncalculator.h
+	"fractions.h"
+	<cstring>
+	<iostream>
+
+1551789118 source:d:\fci\2\2\ds\asss\a1_p2_20170010_20170011_20170047\fractioncalculator.cpp
+	"FractionCalculator.h"
+	"fractions.h"
+	<cstring>
+	<iostream>
+
+1551789845 source:e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p2_20170010_20170011_20170047\fractions.cpp
+	"fractions.h"
+	<iostream>
+
+1550959505 e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p2_20170010_20170011_20170047\fractions.h
+	<cstring>
+	<iostream>
+
+1551786578 source:e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p2_20170010_20170011_20170047\main.cpp
+	<iostream>
+	"FractionCalculator.h"
+	"fractions.h"
+
+1551785696 e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p2_20170010_20170011_20170047\fractioncalculator.h
+	"fractions.h"
+	<cstring>
+	<iostream>
+
+1551903632 source:e:\ahlaway\data structure\assignments\a1_20170010_20170011_20170047\a1_20170010_20170011_20170047\a1_p2_20170010_20170011_20170047\fractioncalculator.cpp
+	"FractionCalculator.h"
+	"fractions.h"
+	<cstring>
+	<iostream>
+	<stdlib.h>
+
